@@ -1,0 +1,32 @@
+오후 5:22 2024-01-13
+
+vimrc 파일을 생성해서 어떻게 
+환경구축을 하는지 모르겠다.
+
+여기에는 
+1. vimrc파일생성하기
+2. vimrc파일에 설정값넣기
+라고 있는데
+
+1)Highligth
+
+if has("syntax")
+	syntax on
+endif
+이건 무슨뜻인지 모르겠다.
+
+4) Tap space
+
+set ts=4
+set sts=4
+set shiftwidth=4
+이건 또 무슨뜻인지 모르겠다.
+이사람은 set ts를 4번에 설정한다는 뜻인듯하다.
+
+이걸로 봐서는 내가 원하는 것은 아닌듯
+다시 검색해봐야 할것같다.
+
+
+
+
+
