@@ -1,0 +1,19 @@
+2024-01-13-7:00
+
+실시간c언어 강의보기
+
+20강 쓰레드 배우고 채팅프로그램완성
+쓰레드란--운영체제가 관리한다.
+ 쓰레드도 메모리를 사용한다.메모리반환을해줘야한다.
+
+
+#include <stdio.h>
+
+#include <pthread.h>
+
+int main()
+{
+   pthread_t s_thread
+   pthread_creat(&s_thread.NULL,변수명 );
+
+}
